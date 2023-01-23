@@ -1,7 +1,12 @@
+import {Characters} from "./components";
+
 const App = () => {
     return (
         <div>
-            App
+            <Characters/>
+            <div>
+
+            </div>
         </div>
     );
 };
