@@ -1,0 +1,39 @@
+.wrapper__register{
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+}
+.container__register{
+    width: 450px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #868080;
+    border-radius: 10px;
+}
+.input__register{
+    width: 400px;
+    height: 50px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    display: block;
+    background-color: silver;
+    border: 0
+}
+.button__register {
+    height: 40px;
+    width: 150px;
+    border-radius: 10px;
+}
+.register__form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.change__form{
+    margin-top: 30px;
+}
