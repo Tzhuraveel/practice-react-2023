@@ -1,0 +1,20 @@
+.container{
+    height: 70px;
+    background-color: steelblue;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+.menu__list{
+    display: flex;
+}
+
+.menu__item{
+    margin: 5px 10px;
+}
+
+.menu__item > a {
+    font-size: 20px;
+    text-decoration: none;
+}

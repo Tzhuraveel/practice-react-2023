@@ -1,0 +1,12 @@
+.container__form{
+    display: flex;
+}
+.cars{
+    display: flex;
+    flex-wrap: wrap;
+    width: 300px;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.form{
+}
