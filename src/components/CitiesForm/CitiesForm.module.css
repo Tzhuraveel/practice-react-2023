@@ -1,0 +1,51 @@
+.containerForm{
+    margin-top: 20px;
+    margin-bottom: 7px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.weatherForm{
+    background-color: bisque;
+    height: 50px;
+    min-width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    padding: 5px;
+}
+.weatherInput{
+    border: 1px silver;
+    width: 400px;
+    height: 30px;
+    border-radius: 3px;
+    box-sizing: border-box;
+    padding: 5px;
+    margin-right: 5px;
+}
+.weatherInput:active, :hover, :focus {
+    outline: 0;
+    outline-offset: 0;
+}
+
+.weatherButton {
+    border: none;
+    outline: none;
+    width: 70px;
+    height: 25px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.weatherButton:active {
+    top: 3px;
+
+}
+.magni{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20px;
+}

@@ -1,0 +1,36 @@
+.container{
+    height: 70px;
+    width: 100%;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: burlywood;
+    margin: 0 auto;
+}
+.height{
+    height: 70px;
+}
+.wrapperHeader{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100%;
+    box-sizing: border-box;
+    padding: 0 10px;
+    width: 1200px;
+    margin: 0 auto;
+}
+.menuList{
+
+}
+.menuItem{
+    list-style-type: none;
+}
+
+.menuItem > a{
+    font-size: 25px;
+    text-transform: uppercase;
+    color: whitesmoke;
+    text-decoration: none;
+}

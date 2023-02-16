@@ -1,0 +1,16 @@
+
+.containerCity {
+    box-sizing: border-box;
+    padding: 5px;
+    border: 1px solid black;
+    background-color: white;
+    margin: 4px;
+    cursor: pointer
+}
+.cityTitle{
+    font-size: 18px;
+    font-weight: 700;
+}
+.info{
+    margin-right: 5px;
+}

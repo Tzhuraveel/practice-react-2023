@@ -1,0 +1,12 @@
+.containerSearch{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.containerCities{
+    width: 415px;
+    box-sizing: border-box;
+    min-height:0;
+    background-color: #ffe4c4;
+}
